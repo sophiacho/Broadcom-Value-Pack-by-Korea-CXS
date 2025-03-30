@@ -1,5 +1,20 @@
 # Broadcom Value Pack for VMware Cloud Foundation
----
+<details>
+<summary>"Click to expand"</summary>
+
+Download Broadcom Value Pack 1.0 Package file [download link ](https://my.vmware.com/web/vmware/details?downloadGroup=NSX-T-300&productId=982&rPId=45015)
+<p align="center">
+  <img width=75% height=75% src="/docs/assets/Graphics/2.1.step1.jpg">
+</p>
+
+
+</details>
+
+
+
+
+
+</details>
 ## Installation of Broadcom Value Pack 
 
 
