@@ -14,7 +14,6 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://my.vmware
 
 
 
-</details>
 ## Installation of Broadcom Value Pack 
 
 
