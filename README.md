@@ -1,15 +1,25 @@
-# Broadcom Value Pack for VMware Cloud Foundation
+Project presented at BrazilJS conference.
+Brazilian JavaScript Conference
+Fortaleza - Ceará - 13-14 May 2011
+http://braziljs.com.br/2011
 
+All libs/jars and their dependencies are included:
+Ext JS 4
+Spring MVC 3
+Hibernate 3.5
 
-<details>
-<summary>"Click to expand"</summary>
+Please run the scrip inside sql/script.sql
 
-Download Broadcom Value Pack 1.0 Package file [download link ](https://my.vmware.com/web/vmware/details?downloadGroup=NSX-T-300&productId=982&rPId=45015)
+Tools used to implement this project:
+Eclipse IDE - Java project
+MySQL
 
+Loiane Groner
+http://loianegroner.com (English)
+http://loiane.com (Portuguese)
 
-
-</details>
-
+Presentation link: coming soon
+Blog link: coming soon
 
 
 
