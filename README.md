@@ -28,7 +28,7 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 
 ---
 
-### 2. Deployment of Broadcom Value Pack (BVP)
+### 2. Deployment of Broadcom Value Pack (BVP) in VMware Cloud Foundation Automation
 <details>
 <summary>"Click to expand"</summary>
 
@@ -90,45 +90,9 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 
 ---
 
-### 3. Register NSX-T to vCenter
-<details>
-<summary>"Click to expand"</summary>
-
-*Note: NSX-T Manager requires few minutes to fully start and get all its services running.*
-
-- **Log on NSX-T Manager UI.**  
-In a browser: https://192.168.50.5/.  
-	<p align="center">
-	  <img width=85% height=85% src="/docs/assets/Graphics/2.3.step1.jpg">
-	</p>
-
-- **Configuration NSX-T Licence.**  
-Under "System - Settings - Licenses", click "Add".  
-	<p align="center">
-	  <img width=75% height=75% src="/docs/assets/Graphics/2.3.step2.jpg">
-	</p>
 
 
-- **Register NSX-T in vCenter (to allow the deplyment of NSX elements into vCenter/ESXi from NSX).**  
-Under "System - Configuration - Fabric - Compute Managers", click "Add".  
-	<p align="center">
-	  <img width=50% height=50% src="/docs/assets/Graphics/2.3.step3a.jpg">
-	</p>  
-	<p align="center">
-	  <img width=40% height=40% src="/docs/assets/Graphics/2.3.step3b.jpg">
-	</p>
-
-- **Validate NSX-T registration in vCenter.**  
-Under "System - Configuration - Fabric - Compute Managers", click "Refresh" (bottom-left).
-	<p align="center">
-	  <img width=85% height=85% src="/docs/assets/Graphics/2.3.step4.jpg">
-	</p>
-
-</details>
-
----
-
-### 5. Deployment of Broadcom Value Pack (BVP) in Aria Automation
+### 3. Deployment of Broadcom Value Pack (BVP) in Aria Automation
 
 
 <details>
@@ -223,4 +187,4 @@ Under "System - Configuration - Fabric - Nodes - Edge Clusters", click "Refresh"
 ---
 
 [***Reference: VMware Cloud Foundation 5.2***](https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-5-2-and-earlier/5-2.html)
-
+[***Reference: VMware Cloud Foundation Automation 8.18***](https://techdocs.broadcom.com/us/en/vmware-cis/aria/aria-automation/8-18.html)
