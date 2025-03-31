@@ -43,16 +43,6 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 	  <img width=75% height=75% src="/assets/Assets_Packages.png">
 	</p>
 
-- **Enter NSX-T Manager VM name + vCenter folder for VM.**  
-	<p align="center">
-	  <img width=75% height=75% src="/docs/assets/Graphics/2.2.step3.jpg">
-	</p>
-
-- **Select ESXi to host NSX-T Manager.**  
-	<p align="center">
-	  <img width=75% height=75% src="/docs/assets/Graphics/2.2.step4.jpg">
-	</p>
-
 - **Review Broadcom Value Pack Package details.**  
 	<p align="center">
 	  <img width=75% height=75% src="/assets/Packages_Import.png">
