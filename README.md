@@ -1,4 +1,4 @@
-The Broadcom Value Pack (BVP) Installation Guide describes how to install the Broadcom Value Pack (BVP). The information includes step-by-step configuration instructions and suggested best practices.
+The Broadcom Value Pack (BVP) Installation Guide describes how to install the Broadcom Value Pack (BVP) for VMware Cloud Foundation Automation. The information includes step-by-step configuration instructions and suggested best practices.
 
 
 
