@@ -35,7 +35,7 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 
 - **From VMware Cloud Foundation Automation, deploy Broadcom Value Pack Package.**  
 	<p align="center">
-	  <img width=25% height=25% src="/assets/Assets_Packages.png">
+	  <img width=75% height=75% src="/assets/Assets_Packages.png">
 	</p>
 
 - **Select Package file.**  
