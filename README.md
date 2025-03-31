@@ -32,6 +32,22 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 <details>
 <summary>"Click to expand"</summary>
 
+Follow the recommended order of procedures.
+1. Review the NSX Manager installation requirements. See NSX Manager Installation Requirements.
+2. Configure the necessary ports and protocols. See Ports and Protocols.
+3. Install the NSX Manager. See Install NSX Manager and Available Appliances.
+4. Log in to the newly created NSX Manager. See Log In to the Newly Created NSX Manager.
+5. Configure a compute manager. See Add a Compute Manager.
+6. Deploy additional NSX Manager nodes to form a cluster. See Deploy NSX Manager Nodes to Form a Cluster from the UI.
+7. Review the NSX Edge installation requirements. See NSX Edge Installation Requirements.
+8. Install NSX Edges. See Install an NSX Edge on ESXi Using the vSphere GUI.
+9. Create an NSX Edge cluster. See Create an NSX Edge Cluster.
+10. Create transport zones. See Create Transport Zones.
+11. Create host transport nodes. See Prepare ESXi Cluster Hosts as Transport Nodes by Using TNP.
+12. Create edge transport nodes. See Create an NSX Edge Transport Node.
+13. Create an edge cluster. See Create an NSX Edge Cluster.
+14. Create a Tier-0 gateway (if deploying single-tier or multi-tier routing topology in NSX). See NSX Administration Guide.
+
 - **From vCenter, deploy NSX-T Unified Appliance OVA.**  
 	<p align="center">
 	  <img width=25% height=25% src="/docs/assets/Graphics/2.2.step1.jpg">
