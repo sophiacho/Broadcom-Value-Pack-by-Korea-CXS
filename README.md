@@ -34,6 +34,9 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 
 Follow the recommended order of procedures.
 1. Review the NSX Manager installation requirements. See NSX Manager Installation Requirements.
+2. Configure the Use the checklist to track your installation progress on a vSphere host.
+Follow the recommended order of procedures.
+1. Review the NSX Manager installation requirements. See NSX Manager Installation Requirements.
 2. Configure the necessary ports and protocols. See Ports and Protocols.
 3. Install the NSX Manager. See Install NSX Manager and Available Appliances.
 4. Log in to the newly created NSX Manager. See Log In to the Newly Created NSX Manager.
