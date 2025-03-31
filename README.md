@@ -66,14 +66,14 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 	  <img width=75% height=75% src="/assets/Select_Orchestrator.png">
 	</p>
 
-- **Select Package file.**  
+- **Select Library Workflows.**  
 	<p align="center">
-	  <img width=75% height=75% src="/assets/Assets_Packages.png">
+	  <img width=75% height=75% src="/assets/Library_Workflows.png">
 	</p>
 
-- **Review Broadcom Value Pack Package details and import Package file**  
+- **Select Install Value Pack Workflow and select Admin Project and Backup Source to install.**  
 	<p align="center">
-	  <img width=75% height=75% src="/assets/Packages_Import.png">
+	  <img width=75% height=75% src="/assets/Install Value Pack_Workflow.png">
 	</p>
 
 </details>
