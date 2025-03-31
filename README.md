@@ -20,7 +20,7 @@ The Broadcom Value Pack (BVP) Installation Guide describes how to install the Br
 <details>
 <summary>"Click to expand"</summary>
 
-Download Broadcom Value Pack 1.0 Package file [download link ](https://my.vmware.com/web/vmware/details?downloadGroup=NSX-T-300&productId=982&rPId=45015)
+Download Broadcom Value Pack 1.0 Package file [download link ](https://github.com/sophiacho/vmbrCloud/blob/main/com.bvp.package)
 
 
 <p align="center">
