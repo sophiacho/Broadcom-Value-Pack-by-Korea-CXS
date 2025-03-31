@@ -6,11 +6,11 @@ The Broadcom Value Pack (BVP) Installation Guide describes how to install the Br
 ## Installation of Broadcom Value Pack 
 
 
-| VMware Product           | Version               |
-|:-------------------------|:---------------------:|
-| VMware Cloud Foundation  |     5.2               |     
-| Aria Automation          |     8.18              |
-| Broadcom Value Pack      |     1.0               |
+| VMware Product                              | Version               |
+|:--------------------------------------------|:---------------------:|
+| VMware Cloud Foundation                     |     5.2               |     
+| VMware Cloud Foundation Automation          |     8.18              |
+| Broadcom Value Pack                         |     1.0               |
 
 ---
 
