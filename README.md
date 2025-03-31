@@ -53,7 +53,7 @@ Follow the recommended order of procedures.
 
 - **From vCenter, deploy NSX-T Unified Appliance OVA.**  
 	<p align="center">
-	  <img width=25% height=25% src="/docs/assets/Graphics/2.2.step1.jpg">
+	  <img width=25% height=25% src="/assets/Packages_Import.png">
 	</p>
 
 - **Select OVF file.**  
