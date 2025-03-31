@@ -10,7 +10,7 @@ The Broadcom Value Pack (BVP) Installation Guide describes how to install the Br
 |:--------------------------------------------|:---------------------:|
 | VMware Cloud Foundation                     |     5.2               |     
 | VMware Cloud Foundation Automation          |     8.18              |
-| Broadcom Value Pack                         |     1.0               |
+| Broadcom Value Pack by Korea CXS            |     1.0               |
 
 ---
 
