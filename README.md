@@ -73,6 +73,24 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 	  <img width=75% height=75% src="/assets/Install Value Pack_Workflow.png">
 	</p>
 
+- **Review Broadcom Value Pack Custom Resources.**  
+	<p align="center">
+	  <img width=75% height=75% src="/assets/Custom_Resources.png">
+	</p>
+
+ - **Review Broadcom Value Pack Extensibility Library Actions.**  
+	<p align="center">
+	  <img width=75% height=75% src="/assets/Library_Actions_1.png">
+	</p>
+
+ 	<p align="center">
+	  <img width=75% height=75% src="/assets/Library_Actions_2.png">
+	</p>
+ 
+ 	<p align="center">
+	  <img width=75% height=75% src="/assets/Library_Actions_3.png">
+	</p>
+ 
 </details>
 
 ---
