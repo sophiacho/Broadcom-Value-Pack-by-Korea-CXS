@@ -23,10 +23,6 @@ The Broadcom Value Pack (BVP) Installation Guide describes how to install the Br
 Download Broadcom Value Pack 1.0 Package file [download link ](https://github.com/sophiacho/vmbrCloud/raw/refs/heads/main/com.bvp.package)
 
 
-<p align="center">
-  <img width=75% height=75% src="/docs/assets/Graphics/2.1.step1.jpg">
-</p>
-
 
 </details>
 
