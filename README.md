@@ -1,25 +1,4 @@
-Project presented at BrazilJS conference.
-Brazilian JavaScript Conference
-Fortaleza - Ceará - 13-14 May 2011
-http://braziljs.com.br/2011
-
-All libs/jars and their dependencies are included:
-Ext JS 4
-Spring MVC 3
-Hibernate 3.5
-
-Please run the scrip inside sql/script.sql
-
-Tools used to implement this project:
-Eclipse IDE - Java project
-MySQL
-
-Loiane Groner
-http://loianegroner.com (English)
-http://loiane.com (Portuguese)
-
-Presentation link: coming soon
-Blog link: coming soon
+The Broadcom Value Pack (BVP) Installation Guide describes how to install the Broadcom Value Pack (BVP). The information includes step-by-step configuration instructions and suggested best practices.
 
 
 
