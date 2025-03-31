@@ -187,4 +187,5 @@ Under "System - Configuration - Fabric - Nodes - Edge Clusters", click "Refresh"
 ---
 
 [***Reference: VMware Cloud Foundation 5.2***](https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-5-2-and-earlier/5-2.html)
+---
 [***Reference: VMware Cloud Foundation Automation 8.18***](https://techdocs.broadcom.com/us/en/vmware-cis/aria/aria-automation/8-18.html)
