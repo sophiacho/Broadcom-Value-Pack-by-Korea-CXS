@@ -56,7 +56,6 @@ Download Broadcom Value Pack 1.0 Package file [download link ](https://github.co
 <details>
 <summary>"Click to expand"</summary>
 
-*Note: If you limit your Evaluation at [Security only (no Logical Network)](/docs/3.1-Security-Only.md) and not [Logical Network + Security](/docs/3.2-LogicalNetwork-Security.md) nor [Operation Tools](/docs/3.3-Operation-Tools.md), you don't need to deploy Edge Nodes.*
 
 - **From VMware Cloud Foundation Automation, go to Orchestrator.**  
 	<p align="center">
