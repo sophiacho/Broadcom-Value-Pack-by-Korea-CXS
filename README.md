@@ -48,4 +48,4 @@ Templates in this category help automate security-related configurations, such a
 If you encounter any issues during installation or while applying the templates, you can refer to the VMware official documentation. For further support, please contact us directly.
 
 
-[***Installation Guide: Broadcom Value Pack (BVP) Installation Guide***](/Installation.md)
+[***Installation Guide: Installation of Broadcom Value Pack (BVP)***](/Installation.md)
