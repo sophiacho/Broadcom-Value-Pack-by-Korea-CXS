@@ -16,6 +16,8 @@ This category includes templates related to virtual machine (VM) provisioning an
 Templates in this category assist with network infrastructure setup and management. This includes tasks such as configuring virtual private clouds, network segments, segment peering, and load balancers.
 
 - **Virtual Private Cloud (VPC) Template**: Template to automate the configuration of a virtual private cloud within your network environment.
+- **Access IP Template**: Template to provision and configure access IPs for external connectivity.
+- **Load Balancer Template**: Template for automatically configuring load balancing solutions within the network.
 - **Segment Template**: Template for provisioning network segments for isolation and management of IP addresses.
 - **Segment Peering Template**: Template to automate the peering of network segments for communication between isolated networks.
 - **Load Balancer Template**: Template for automatically configuring load balancing solutions within the network.
@@ -29,9 +31,7 @@ This category includes templates for automating storage provisioning, including 
 ### 4. **Security**
 Templates in this category help automate security-related configurations, such as security group management, patching, and encryption.
 
-- **Security Group Template**: Template to configure and manage network security groups and policies.
-- **Patch Management Template**: Template to automate the application of patches for systems and applications.
-- **Encryption Template**: Template to set up encryption for data at rest and in transit.
+- **Distributed Firewall Template**: Template to configure and manage distributed firewall rules to protect your network resources.
 
 ### 5. **Container**
 Templates in this category automate the deployment and management of containerized environments, including Kubernetes clusters and namespaces.
