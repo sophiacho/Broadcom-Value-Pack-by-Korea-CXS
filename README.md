@@ -17,7 +17,7 @@ The Broadcom Value Pack (BVP) Installation Guide describes how to install the Br
 <details>
 <summary>"Click to expand"</summary>
 
-Download Broadcom Value Pack 1.0 Package file [download link ](https://github.com/sophiacho/Broadcom-Value-Pack-by-Korea-CXS/raw/refs/heads/main/com.bvp.package)
+Download Broadcom Value Pack 1.0 Package file [BVP Package download ](https://github.com/sophiacho/Broadcom-Value-Pack-by-Korea-CXS/raw/refs/heads/main/com.bvp.package)
 
 
 
