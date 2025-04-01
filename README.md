@@ -47,7 +47,7 @@ This category includes templates for automating database instance provisioning, 
 
 ## Support
 
-If you encounter any issues during installation or while applying the templates, you can refer to the VMware official documentation or visit the **VMware Community Forum** for additional assistance. For further support, please contact us directly.
+If you encounter any issues during installation or while applying the templates, you can refer to the VMware official documentation. For further support, please contact us directly.
 
 
 [***Installation Guide: Broadcom Value Pack (BVP) Installation Guide***](/Installation.md)
