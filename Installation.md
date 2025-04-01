@@ -95,10 +95,14 @@ Download Broadcom Value Pack 1.0 Package file [download package ](https://github
 ---
 
 
-[***Reference: Broadcom Value Pack Interface Specification 1.0 (RESTFul APIs)***](https://github.com/sophiacho/Broadcom-Value-Pack-by-Korea-CXS/raw/refs/heads/main/Broadcom_Value_Pack_Interface_specification_V1.0.pdf)
 
 
 [***Reference: VMware Cloud Foundation 5.2***](https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-5-2-and-earlier/5-2.html)
 
 
 [***Reference: VMware Cloud Foundation Automation 8.18***](https://techdocs.broadcom.com/us/en/vmware-cis/aria/aria-automation/8-18.html)
+
+[***Reference: Broadcom Value Pack Interface Specification 1.0 (API Documentation)***](https://github.com/sophiacho/Broadcom-Value-Pack-by-Korea-CXS/raw/refs/heads/main/Broadcom_Value_Pack_Interface_specification_V1.0.pdf)
+
+[***Reference: Broadcom Value Pack Self-Service Catalog User Guide 1.0***](https://github.com/sophiacho/Broadcom-Value-Pack-by-Korea-CXS/raw/refs/heads/main/Broadcom_Value_Pack_Self-Service_Catalog_User_Guide_V1.0.pdf)
+
