@@ -20,7 +20,6 @@ Templates in this category assist with network infrastructure setup and manageme
 - **Load Balancer Template**: Template for automatically configuring load balancing solutions within the network.
 - **Segment Template**: Template for provisioning network segments for isolation and management of IP addresses.
 - **Segment Peering Template**: Template to automate the peering of network segments for communication between isolated networks.
-- **Load Balancer Template**: Template for automatically configuring load balancing solutions within the network.
 
 ### 3. **Storage**
 This category includes templates for automating storage provisioning, including block storage, file systems, and configuration of different storage options.
