@@ -1,102 +1,51 @@
+# Broadcom Value Pack (BVP) Package
 
-# Installation of Broadcom Value Pack 
+## Overview
 
-The Broadcom Value Pack (BVP) Installation Guide describes how to install the Broadcom Value Pack (BVP) for VMware Cloud Foundation Automation. The information includes step-by-step configuration instructions and suggested best practices.
+This package provides pre-configured **templates** for automating resource provisioning in **Broadcom Value Pack (BVP)**. The templates are organized into 6 primary categories, allowing users to quickly and efficiently configure services for a wide range of use cases. By leveraging these templates, users can automate and streamline the deployment of infrastructure components across a VMware Cloud Foundation environment.
 
-| VMware Product                              | Version               |
-|:--------------------------------------------|:---------------------:|
-| VMware Cloud Foundation                     |     5.2               |     
-| VMware Cloud Foundation Automation          |     8.18              |
-| Broadcom Value Pack by Korea CXS            |     1.0               |
+## Provided Categories & Templates
 
----
+### 1. **Compute**
+This category includes templates related to virtual machine (VM) provisioning and configuration. Users can quickly deploy VMs with different operating systems and resource configurations.
 
-### Steps:
+- **VM Template**: Templates for provisioning Linux-based VMs (RHEL, CentOS, Ubuntu, etc.)
+- **Advanced VM Template**: Templates for provisioning VMs with advanced configurations (e.g., high-performance CPUs, additional memory)
 
-### 1. Download of Broadcom Value Pack (BVP) Package
-<details>
-<summary>"Click to expand"</summary>
+### 2. **Network**
+Templates in this category assist with network infrastructure setup and management. This includes tasks such as configuring virtual private clouds, network segments, segment peering, and load balancers.
 
-Download Broadcom Value Pack 1.0 Package file [download package ](https://github.com/sophiacho/Broadcom-Value-Pack-by-Korea-CXS/raw/refs/heads/main/com.bvp.package)
+- **Virtual Private Cloud (VPC) Template**: Template to automate the configuration of a virtual private cloud within your network environment.
+- **Segment Template**: Template for provisioning network segments for isolation and management of IP addresses.
+- **Segment Peering Template**: Template to automate the peering of network segments for communication between isolated networks.
+- **Load Balancer Template**: Template for automatically configuring load balancing solutions within the network.
 
+### 3. **Storage**
+This category includes templates for automating storage provisioning, including block storage, file systems, and configuration of different storage options.
 
+- **Block Disk Template**: Template to automatically provision block storage disks for VMs.
+- **Network File System (NFS) Template**: Template to provision and configure network-attached storage using NFS for file storage solutions.
 
-</details>
+### 4. **Security**
+Templates in this category help automate security-related configurations, such as security group management, patching, and encryption.
 
----
+- **Security Group Template**: Template to configure and manage network security groups and policies.
+- **Patch Management Template**: Template to automate the application of patches for systems and applications.
+- **Encryption Template**: Template to set up encryption for data at rest and in transit.
 
-### 2. Deployment of Broadcom Value Pack (BVP) in VMware Cloud Foundation Automation
-<details>
-<summary>"Click to expand"</summary>
+### 5. **Container**
+Templates in this category automate the deployment and management of containerized environments, including Kubernetes clusters and namespaces.
 
+- **Kubernetes Cluster Template**: Template to automate the deployment and management of Kubernetes clusters.
+- **Kubernetes Namespace Template**: Template for creating and managing Kubernetes namespaces within clusters for resource isolation.
 
-- **From VMware Cloud Foundation Automation, go to Orchestrator.**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Select_Orchestrator.png">
-	</p>
+### 6. **Database**
+This category includes templates for automating database instance provisioning, including popular database systems like PostgreSQL and MySQL.
 
-- **Select Package file.**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Assets_Packages.png">
-	</p>
-
-- **Review Broadcom Value Pack Package details and import Package file**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Packages_Import.png">
-	</p>
-
-</details>
-
----
+- **PostgreSQL Template**: Template to automatically deploy and configure PostgreSQL database instances.
+- **MySQL Template**: Template to deploy MySQL database instances.
 
 
-### 3. Installation of Broadcom Value Pack (BVP) in VMware Cloud Foundation Automation
+## Support
 
-
-<details>
-<summary>"Click to expand"</summary>
-
-
-- **From VMware Cloud Foundation Automation, go to Orchestrator.**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Select_Orchestrator.png">
-	</p>
-
-- **Select Library Workflows.**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Library_Workflows.png">
-	</p>
-
-- **Select Install Value Pack Workflow and select Admin Project and Backup Source to install.**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Install Value Pack_Workflow.png">
-	</p>
-
-- **Review Custom Resources of Broadcom Value Pack.**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Custom_Resources.png">
-	</p>
-
- - **Review Extensibility Library Actions of Broadcom Value Pack.**  
-	<p align="center">
-	  <img width=75% height=75% src="/assets/Library_Actions_1.png">
-	</p>
-
- 	<p align="center">
-	  <img width=75% height=75% src="/assets/Library_Actions_2.png">
-	</p>
- 
- 	<p align="center">
-	  <img width=75% height=75% src="/assets/Library_Actions_3.png">
-	</p>
- 
-</details>
-
----
-
-[***Reference: Broadcom Value Pack Interface Specification 1.0***](https://github.com/sophiacho/Broadcom-Value-Pack-by-Korea-CXS/blob/main/Broadcom_Value_Pack_Interface_specification_V1.0.pdf)
-
-[***Reference: VMware Cloud Foundation 5.2***](https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-5-2-and-earlier/5-2.html)
-
-
-[***Reference: VMware Cloud Foundation Automation 8.18***](https://techdocs.broadcom.com/us/en/vmware-cis/aria/aria-automation/8-18.html)
+If you encounter any issues during installation or while applying the templates, you can refer to the VMware official documentation or visit the **VMware Community Forum** for additional assistance. For further support, please contact us directly.
