@@ -10,40 +10,38 @@ This package provides pre-configured **templates** for automating resource provi
 This category includes templates related to virtual machine (VM) provisioning and configuration. Users can quickly deploy VMs with different operating systems and resource configurations.
 
 - **VM Template**: Templates for provisioning Linux-based VMs (RHEL, CentOS, Ubuntu, etc.)
-- **Advanced VM Template**: Templates for provisioning VMs with advanced configurations (e.g., high-performance CPUs, additional memory)
 
 ### 2. **Network**
 Templates in this category assist with network infrastructure setup and management. This includes tasks such as configuring virtual private clouds, network segments, segment peering, and load balancers.
 
 - **Virtual Private Cloud (VPC) Template**: Template to automate the configuration of a virtual private cloud within your network environment.
 - **Access IP Template**: Template to provision and configure access IPs for external connectivity.
-- **Load Balancer Template**: Template for automatically configuring load balancing solutions within the network.
 - **Segment Template**: Template for provisioning network segments for isolation and management of IP addresses.
 - **Segment Peering Template**: Template to automate the peering of network segments for communication between isolated networks.
-
+- **Load Balancer Template**: Template for automatically configuring load balancing solutions within the network.
+  
 ### 3. **Storage**
 This category includes templates for automating storage provisioning, including block storage, file systems, and configuration of different storage options.
 
 - **Block Disk Template**: Template to automatically provision block storage disks for VMs.
 - **Network File System (NFS) Template**: Template to provision and configure network-attached storage using NFS for file storage solutions.
 
-### 4. **Security**
-Templates in this category help automate security-related configurations, such as security group management, patching, and encryption.
-
-- **Distributed Firewall Template**: Template to configure and manage distributed firewall rules to protect your network resources.
-
-### 5. **Container**
+### 4. **Container**
 Templates in this category automate the deployment and management of containerized environments, including Kubernetes clusters and namespaces.
 
 - **Kubernetes Cluster Template**: Template to automate the deployment and management of Kubernetes clusters.
 - **Kubernetes Namespace Template**: Template for creating and managing Kubernetes namespaces within clusters for resource isolation.
 
-### 6. **Database**
+### 5. **Database**
 This category includes templates for automating database instance provisioning, including popular database systems like PostgreSQL and MySQL.
 
 - **PostgreSQL Template**: Template to automatically deploy and configure PostgreSQL database instances.
 - **MySQL Template**: Template to deploy MySQL database instances.
 
+### 6. **Security**
+Templates in this category help automate security-related configurations, such as security group management, patching, and encryption.
+
+- **Distributed Firewall Template**: Template to configure and manage distributed firewall rules to protect your network resources.
 
 ## Support
 
